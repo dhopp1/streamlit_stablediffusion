@@ -1,0 +1,7 @@
+accelerate
+diffusers
+pandas
+pillow
+streamlit
+streamlit-server-state
+torch

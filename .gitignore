@@ -1,3 +1,9 @@
+*.DS_Store
+metadata/input_images/*
+metadata/models/*
+metadata/output_images/*
+metadata/user.txt
+metadata/last_used.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
